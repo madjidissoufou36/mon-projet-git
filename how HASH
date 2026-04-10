@@ -1,0 +1,41 @@
+[33mcommit 2995a83addcbdcb6ad1382f8a927a3eafcd72dc0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Abdoul Madjid <madjidissoufou36@gmail.com>
+Date:   Fri Apr 10 01:46:52 2026 +0200
+
+    docs: update readme with description
+
+[33mcommit 2d18607bc65aa85dfddcfd96aa47b38d7939a1b2[m
+Author: Abdoul Madjid <madjidissoufou36@gmail.com>
+Date:   Fri Apr 10 01:41:48 2026 +0200
+
+    feat: add a.txt only
+
+[33mcommit b93c7d246776eb9bfa1eb48ece530af5ebcb426b[m
+Author: Abdoul Madjid <madjidissoufou36@gmail.com>
+Date:   Fri Apr 10 01:25:42 2026 +0200
+
+    feat: add a.txt only
+
+[33mcommit 078918a1b6243f897bb2454141dbe75c586b2bb3[m
+Author: Abdoul Madjid <madjidissoufou36@gmail.com>
+Date:   Fri Mar 27 12:02:18 2026 +0100
+
+    config: setup git identity
+
+[33mcommit 2ac2e1b15545dd5de0f21e4fe16e59a8b48ba144[m
+Author: madjidissoufou36 <madjidissoufou36@gmail.com>
+Date:   Fri Mar 27 11:53:45 2026 +0100
+
+    docs: explain version control
+
+[33mcommit 96d6fc8cd1a2ccdb7cc46252bed1c8476db98011[m
+Author: madjidissoufou36 <madjidissoufou36@gmail.com>
+Date:   Fri Mar 27 11:49:42 2026 +0100
+
+    docs: explain version control
+
+[33mcommit 7b1197f5dc6c0d85932b6c983b5bb5ec8cd4eff7[m
+Author: madjidissoufou36 <madjidissoufou36@gmail.com>
+Date:   Fri Mar 27 11:16:52 2026 +0100
+
+    init: first commit
